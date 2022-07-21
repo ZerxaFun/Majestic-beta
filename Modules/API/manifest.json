@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "authors": {
+      "name": "ZerxaFun aKa Zerxa",
+      "email": "ZerxaFun@gmail.com"
+    },
+    "name": "Control panel for MajesticFramework"
+  },
+  "type": "API",
+  "config": {
+    "language": "russian"
+  },
+  "setting": {
+    "language": {
+      "russian": {
+        "tag": "ru",
+        "name": "ru-RU"
+      },
+      "china": {
+        "tag": "ch",
+        "name": "ch-CH"
+      },
+      "english": {
+        "tag": "en",
+        "name": "en-US"
+      }
+    }
+  }
+}

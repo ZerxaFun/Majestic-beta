@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "authors": {
+      "name": "ZerxaFun aKa Zerxa",
+      "email": "ZerxaFun@gmail.com"
+    },
+    "name": "Frontend"
+  },
+  "type": "module",
+  "config": {
+    "language": "russian"
+  },
+  "setting": {
+    "theme": "default",
+    "language": {
+      "russian": {
+        "tag": "ru",
+        "name": "ru-RU"
+      },
+      "english": {
+        "tag": "en",
+        "name": "en-US"
+      }
+    }
+  }
+}
